@@ -1,4 +1,5 @@
 // const kg = 'name';
+// const kg = '10';
 
 // const pricePerKG = 65;
 // const ppkString = pricePerKG.toString();
